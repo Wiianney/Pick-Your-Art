@@ -1,0 +1,187 @@
+.pagina-de-cadastro,
+.pagina-de-cadastro * {
+  box-sizing: border-box;
+}
+.pagina-de-cadastro {
+  background: #ffffff;
+  height: 696px;
+  position: relative;
+  overflow: hidden;
+}
+.httpswww-inhotim-org-br-1-1 {
+  width: 1366px;
+  height: 768px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.group-8 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-7 {
+  background: #552322;
+  border-radius: 50px;
+  width: 885px;
+  height: 465px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 115px;
+}
+.httpswww-inhotim-org-br-2-1 {
+  width: 532px;
+  height: 49px;
+  position: absolute;
+  left: 411px;
+  top: 147px;
+  object-fit: cover;
+}
+.rectangle-10 {
+  background: #d9d9d9;
+  border-radius: 50px;
+  width: 165px;
+  height: 36px;
+  position: absolute;
+  left: 871px;
+  top: 517px;
+}
+.proximo {
+  color: #000000;
+  text-align: center;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 922px;
+  top: 524px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-7 {
+  width: 445px;
+  height: 208px;
+  position: static;
+}
+.crie-seu-pr-prio-usu-rio {
+  color: #000000;
+  text-align: left;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 354px;
+  top: 314px;
+  width: 229px;
+  height: 51px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.cadastrar-se {
+  color: #000000;
+  text-align: left;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 36px;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 354px;
+  top: 251px;
+  width: 308px;
+  height: 77px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  -webkit-text-stroke: 1px #000000;
+}
+.rectangle-20 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #000000;
+  border-width: 0px 0px 0px 5px;
+  width: 81px;
+  height: 208px;
+  position: absolute;
+  left: 326px;
+  top: 251px;
+}
+.rectangle-23 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #000000;
+  border-width: 0px 0px 0px 5px;
+  width: 440px;
+  height: 208px;
+  position: absolute;
+  left: 331px;
+  top: 251px;
+}
+.rectangle-21 {
+  background: rgba(217, 217, 217, 0);
+  border-radius: 50px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 4px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 354px;
+  top: 412px;
+}
+.rectangle-22 {
+  background: rgba(217, 217, 217, 0);
+  border-radius: 50px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 4px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 530px;
+  top: 412px;
+}
+.comprador {
+  color: #ffffff;
+  text-align: center;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 387px;
+  top: 414px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.artista {
+  color: #ffffff;
+  text-align: center;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 563px;
+  top: 414px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.registrar-se-como-comprador-ou-como-artista {
+  color: #000000;
+  text-align: center;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 354px;
+  top: 365px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

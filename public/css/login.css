@@ -1,0 +1,198 @@
+.pagina-de-login,
+.pagina-de-login * {
+  box-sizing: border-box;
+}
+.pagina-de-login {
+  background: #ffffff;
+  height: 768px;
+  position: relative;
+  overflow: hidden;
+}
+.httpswww-inhotim-org-br-1-1 {
+  width: 1366px;
+  height: 768px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.group-13 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-7 {
+  background: #552322;
+  border-radius: 50px;
+  width: 885px;
+  height: 465px;
+  position: absolute;
+  left: 240px;
+  top: 617px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+}
+.httpswww-inhotim-org-br-2-1 {
+  width: 532px;
+  height: 49px;
+  position: absolute;
+  left: 411px;
+  top: 183px;
+  object-fit: cover;
+}
+.group-11 {
+  width: 345px;
+  height: 36px;
+  position: static;
+}
+.rectangle-10 {
+  background: #d9d9d9;
+  border-radius: 50px;
+  width: 165px;
+  height: 36px;
+  position: absolute;
+  left: 871px;
+  top: 553px;
+}
+.rectangle-11 {
+  background: #d9d9d9;
+  border-radius: 50px;
+  width: 165px;
+  height: 36px;
+  position: absolute;
+  left: 691px;
+  top: 553px;
+}
+.entrar {
+  color: #000000;
+  text-align: center;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 930px;
+  top: 560px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.criar-conta {
+  color: #000000;
+  text-align: center;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 733px;
+  top: 560px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-12 {
+  width: 705px;
+  height: 208px;
+  position: static;
+}
+.group-10 {
+  width: 345px;
+  height: 114px;
+  position: static;
+}
+.rectangle-8 {
+  background: rgba(68, 17, 187, 0);
+  border-style: solid;
+  border-color: #000000;
+  border-width: 0px 0px 3px 0px;
+  width: 345px;
+  height: 42px;
+  position: absolute;
+  left: 691px;
+  top: 341px;
+}
+.rectangle-9 {
+  background: rgba(68, 17, 187, 0);
+  border-style: solid;
+  border-color: #000000;
+  border-width: 0px 0px 3px 0px;
+  width: 345px;
+  height: 42px;
+  position: absolute;
+  left: 691px;
+  top: 413px;
+}
+.insira-seu-e-mail {
+  color: #ffffff;
+  text-align: center;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 701px;
+  top: 355px;
+  width: 146px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.insira-sua-senha {
+  color: #ffffff;
+  text-align: center;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 701px;
+  top: 427px;
+  width: 146px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-9 {
+  width: 321px;
+  height: 208px;
+  position: static;
+}
+.entre-em-sua-conta {
+  color: #000000;
+  text-align: left;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 352.68px;
+  top: 355px;
+  width: 248.46px;
+  height: 105px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.fazer-login {
+  color: #000000;
+  text-align: left;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 36px;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 352.68px;
+  top: 325px;
+  width: 299.32px;
+  height: 77px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  -webkit-text-stroke: 1px #000000;
+}
+.rectangle-23 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #000000;
+  border-width: 0px 0px 0px 5px;
+  width: 287.65px;
+  height: 208px;
+  position: absolute;
+  left: 331px;
+  top: 288px;
+}

@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../css-20241209T123412Z-001"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html"
+	}
+}

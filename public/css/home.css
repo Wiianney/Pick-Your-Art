@@ -1,0 +1,401 @@
+.pagina-principal,
+.pagina-principal * {
+  box-sizing: border-box;
+}
+.pagina-principal {
+  background: #e6e1cb;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  padding: 10px;
+  height: 1875px;
+  position: relative;
+}
+.httpswww-inhotim-org-br-1-1 {
+  width: 1366px;
+  height: 768px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.istockphoto-617742228-612-x-612-1 {
+  width: 1366px;
+  height: 1107px;
+  position: absolute;
+  left: 0px;
+  top: 768px;
+  object-fit: cover;
+}
+.httpswww-inhotim-org-br-1 {
+  width: 153px;
+  height: 50px;
+  position: absolute;
+  left: 190px;
+  top: 22px;
+  object-fit: cover;
+}
+.httpswww-inhotim-org-br-2-2 {
+  width: 1098px;
+  height: 101px;
+  position: absolute;
+  left: 142px;
+  top: 227px;
+  object-fit: cover;
+}
+.group-27 {
+  position: absolute;
+  inset: 0;
+}
+.group-26 {
+  width: 1065px;
+  height: 694px;
+  position: static;
+}
+.group-25 {
+  width: 525px;
+  height: 694px;
+  position: static;
+}
+.rectangle-5 {
+  background: #d9d9d9;
+  width: 525px;
+  height: 694px;
+  position: absolute;
+  left: 151px;
+  top: 1181px;
+}
+.rectangle-29 {
+  background: #888888;
+  border-radius: 50px;
+  width: 301px;
+  height: 62px;
+  position: absolute;
+  left: 263px;
+  top: 1750px;
+}
+.conhe-a-nossos-artista {
+  color: #ffffff;
+  text-align: center;
+  font-family: "OpenSans-Bold", sans-serif;
+  font-size: 21px;
+  font-weight: 700;
+  position: absolute;
+  left: 289px;
+  top: 1761px;
+  width: 249px;
+  height: 39px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-24 {
+  width: 525px;
+  height: 694px;
+  position: static;
+}
+.rectangle-6 {
+  background: #d9d9d9;
+  width: 525px;
+  height: 694px;
+  position: absolute;
+  left: 691px;
+  top: 1181px;
+}
+.rectangle-30 {
+  background: #888888;
+  border-radius: 50px;
+  width: 301px;
+  height: 62px;
+  position: absolute;
+  left: 803px;
+  top: 1750px;
+}
+.artes-publicadas {
+  color: #ffffff;
+  text-align: center;
+  font-family: "OpenSans-Bold", sans-serif;
+  font-size: 21px;
+  font-weight: 700;
+  position: absolute;
+  left: 831px;
+  top: 1761px;
+  width: 245px;
+  height: 39px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-23 {
+  width: 1068px;
+  height: 341px;
+  position: static;
+}
+.group-21 {
+  width: 255px;
+  height: 339px;
+  position: static;
+}
+.rectangle-1 {
+  background: #d9d9d9;
+  width: 255px;
+  height: 339px;
+  position: absolute;
+  left: 150px;
+  top: 830px;
+}
+.rectangle-25 {
+  background: #888888;
+  border-radius: 50px;
+  width: 190px;
+  height: 46px;
+  position: absolute;
+  left: 175px;
+  top: 1094px;
+}
+.aquarela {
+  color: #ffffff;
+  text-align: center;
+  font-family: "OpenSans-Bold", sans-serif;
+  font-size: 21px;
+  font-weight: 700;
+  position: absolute;
+  left: 221px;
+  top: 1102px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-22 {
+  width: 255px;
+  height: 337px;
+  position: static;
+}
+.rectangle-2 {
+  background: #d9d9d9;
+  width: 255px;
+  height: 337px;
+  position: absolute;
+  left: 421px;
+  top: 830px;
+}
+.rectangle-26 {
+  background: #888888;
+  border-radius: 50px;
+  width: 190px;
+  height: 46px;
+  position: absolute;
+  left: 454px;
+  top: 1094px;
+}
+.tela-leo {
+  color: #ffffff;
+  text-align: center;
+  font-family: "OpenSans-Bold", sans-serif;
+  font-size: 21px;
+  font-weight: 700;
+  position: absolute;
+  left: 490px;
+  top: 1102px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-20 {
+  width: 255px;
+  height: 337px;
+  position: static;
+}
+.rectangle-3 {
+  background: #d9d9d9;
+  width: 255px;
+  height: 337px;
+  position: absolute;
+  left: 692px;
+  top: 828px;
+}
+.rectangle-27 {
+  background: #888888;
+  border-radius: 50px;
+  width: 190px;
+  height: 46px;
+  position: absolute;
+  left: 725px;
+  top: 1092px;
+}
+.realismo {
+  color: #ffffff;
+  text-align: center;
+  font-family: "OpenSans-Bold", sans-serif;
+  font-size: 21px;
+  font-weight: 700;
+  position: absolute;
+  left: 772px;
+  top: 1100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-19 {
+  width: 255px;
+  height: 337px;
+  position: static;
+}
+.rectangle-4 {
+  background: #d9d9d9;
+  width: 255px;
+  height: 337px;
+  position: absolute;
+  left: 963px;
+  top: 828px;
+}
+.rectangle-28 {
+  background: #888888;
+  border-radius: 50px;
+  width: 190px;
+  height: 46px;
+  position: absolute;
+  left: 996px;
+  top: 1094px;
+}
+.acr-lica {
+  color: #ffffff;
+  text-align: center;
+  font-family: "OpenSans-Bold", sans-serif;
+  font-size: 21px;
+  font-weight: 700;
+  position: absolute;
+  left: 1051px;
+  top: 1102px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-6 {
+  position: absolute;
+  inset: 0;
+}
+.group-1 {
+  width: 121px;
+  height: 39px;
+  position: static;
+}
+.rectangle-31 {
+  background: rgba(187, 195, 96, 0.8);
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #2d382d;
+  border-width: 1px;
+  width: 121px;
+  height: 39px;
+  position: absolute;
+  left: 700px;
+  top: 28px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.suporte {
+  color: #2d382d;
+  text-align: center;
+  font-family: "OpenSans-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 718px;
+  top: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-2 {
+  width: 121px;
+  height: 39px;
+  position: static;
+}
+.rectangle-312 {
+  background: rgba(187, 195, 96, 0.8);
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #2d382d;
+  border-width: 1px;
+  width: 121px;
+  height: 39px;
+  position: absolute;
+  left: 848px;
+  top: 28px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.login {
+  color: #2d382d;
+  text-align: center;
+  font-family: "OpenSans-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 879px;
+  top: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-5 {
+  width: 165px;
+  height: 40px;
+  position: static;
+}
+.rectangle-313 {
+  background: rgba(187, 195, 96, 0.8);
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #2d382d;
+  border-width: 1px;
+  width: 165px;
+  height: 40px;
+  position: absolute;
+  left: 996px;
+  top: 27px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.cadastrar-se {
+  color: #2d382d;
+  text-align: center;
+  font-family: "OpenSans-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 1009px;
+  top: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-4 {
+  width: 121px;
+  height: 39px;
+  position: static;
+}
+.rectangle-314 {
+  background: rgba(187, 195, 96, 0.8);
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #2d382d;
+  border-width: 1px;
+  width: 121px;
+  height: 39px;
+  position: absolute;
+  left: 1188px;
+  top: 28px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.sobre-n-s {
+  color: #2d382d;
+  text-align: center;
+  font-family: "OpenSans-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 1195px;
+  top: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

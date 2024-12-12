@@ -1,0 +1,298 @@
+.pagina-de-publicao,
+.pagina-de-publicao * {
+  box-sizing: border-box;
+}
+.pagina-de-publicao {
+  background: #ffffff;
+  height: 1030px;
+  position: relative;
+  overflow: hidden;
+}
+.httpswww-inhotim-org-br-1-1 {
+  width: 1459px;
+  height: 1030px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.group-35 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-7 {
+  background: #552322;
+  border-radius: 50px;
+  width: 1139px;
+  height: 767px;
+  position: absolute;
+  left: 130px;
+  top: 37px;
+}
+.group-34 {
+  width: 954px;
+  height: 681px;
+  position: static;
+}
+.group-32 {
+  width: 532px;
+  height: 49px;
+  position: static;
+}
+.httpswww-inhotim-org-br-2-1 {
+  width: 532px;
+  height: 49px;
+  position: absolute;
+  left: 343px;
+  top: 90px;
+  object-fit: cover;
+}
+.group-33 {
+  width: 414.51px;
+  height: 44px;
+  position: static;
+}
+.rectangle-10 {
+  background: #d9d9d9;
+  border-radius: 50px;
+  width: 198.25px;
+  height: 44px;
+  position: absolute;
+  left: 984.27px;
+  top: 727px;
+}
+.rectangle-11 {
+  background: #d9d9d9;
+  border-radius: 50px;
+  width: 198.25px;
+  height: 44px;
+  position: absolute;
+  left: 768px;
+  top: 727px;
+}
+.publicar {
+  color: #000000;
+  text-align: center;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1046.75px;
+  top: 735.56px;
+  width: 73.29px;
+  height: 26.89px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cancelar {
+  color: #000000;
+  text-align: center;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 829.28px;
+  top: 735.56px;
+  width: 78.1px;
+  height: 26.89px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-37 {
+  width: 954px;
+  height: 527px;
+  position: static;
+}
+.group-36 {
+  width: 518px;
+  height: 410px;
+  position: static;
+}
+.group-30 {
+  width: 454px;
+  height: 242px;
+  position: static;
+}
+.group-28 {
+  width: 453.38px;
+  height: 39.4px;
+  position: static;
+}
+.rectangle-8 {
+  background: rgba(68, 17, 187, 0);
+  border-style: solid;
+  border-color: #000000;
+  border-width: 0px 0px 3px 0px;
+  width: 453.38px;
+  height: 39.4px;
+  position: absolute;
+  left: 229.62px;
+  top: 350px;
+}
+.titutlo-da-obra {
+  color: #ffffff;
+  text-align: left;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 229.62px;
+  top: 361.26px;
+  width: 237.86px;
+  height: 20.64px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-302 {
+  width: 453.38px;
+  height: 39.4px;
+  position: static;
+}
+.rectangle-82 {
+  background: rgba(68, 17, 187, 0);
+  border-style: solid;
+  border-color: #000000;
+  border-width: 0px 0px 3px 0px;
+  width: 453.38px;
+  height: 39.4px;
+  position: absolute;
+  left: 229.62px;
+  top: 485.07px;
+}
+.estilo {
+  color: #ffffff;
+  text-align: left;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 229.62px;
+  top: 496.33px;
+  width: 237.86px;
+  height: 20.64px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-31 {
+  width: 453.38px;
+  height: 39.4px;
+  position: static;
+}
+.rectangle-83 {
+  background: rgba(68, 17, 187, 0);
+  border-style: solid;
+  border-color: #000000;
+  border-width: 0px 0px 3px 0px;
+  width: 453.38px;
+  height: 39.4px;
+  position: absolute;
+  left: 229.62px;
+  top: 552.6px;
+}
+.tecnicas {
+  color: #ffffff;
+  text-align: left;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 229.62px;
+  top: 563.86px;
+  width: 237.86px;
+  height: 20.64px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-29 {
+  width: 454px;
+  height: 39.4px;
+  position: static;
+}
+.rectangle-9 {
+  background: rgba(68, 17, 187, 0);
+  border-style: solid;
+  border-color: #000000;
+  border-width: 0px 0px 3px 0px;
+  width: 453.38px;
+  height: 39.4px;
+  position: absolute;
+  left: 229.62px;
+  top: 417.53px;
+}
+.materias-utilizados {
+  color: #ffffff;
+  text-align: left;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 229px;
+  top: 426.91px;
+  width: 352.62px;
+  height: 20.64px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-312 {
+  width: 518px;
+  height: 127px;
+  position: static;
+}
+.crie-seu-pr-prio-usu-rio {
+  color: #000000;
+  text-align: left;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 241.75px;
+  top: 204.52px;
+  width: 237.54px;
+  height: 94.57px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.publique-sua-arte {
+  color: #000000;
+  text-align: left;
+  font-family: "OpenSans-Regular", sans-serif;
+  font-size: 36px;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 241.42px;
+  top: 182px;
+  width: 505.58px;
+  height: 69px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  -webkit-text-stroke: 1px #000000;
+}
+.rectangle-24 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #000000;
+  border-width: 0px 0px 0px 5px;
+  width: 210.44px;
+  height: 124.3px;
+  position: absolute;
+  left: 229px;
+  top: 184.7px;
+}
+.rectangle-32 {
+  border-radius: 0px;
+  width: 415px;
+  height: 527px;
+  position: absolute;
+  left: 768px;
+  top: 182px;
+  overflow: visible;
+}

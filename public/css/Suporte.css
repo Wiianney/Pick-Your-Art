@@ -1,0 +1,188 @@
+.pagina-de-suporte,
+.pagina-de-suporte * {
+  box-sizing: border-box;
+}
+.pagina-de-suporte {
+  background: #ffffff;
+  height: 768px;
+  position: relative;
+  overflow: hidden;
+}
+.httpswww-inhotim-org-br-1-1 {
+  width: 1366px;
+  height: 768px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.group-13 {
+  position: absolute;
+  inset: 0;
+}
+.group-52 {
+  width: 885px;
+  height: 465px;
+  position: static;
+}
+.rectangle-7 {
+  background: #552322;
+  border-radius: 50px;
+  width: 885px;
+  height: 465px;
+  position: absolute;
+  left: 241px;
+  top: 645px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+}
+.group-51 {
+  width: 746px;
+  height: 250.98px;
+  position: static;
+}
+.group-50 {
+  width: 743px;
+  height: 77.99px;
+  position: static;
+}
+.rectangle-37 {
+  background: #b1a188;
+  border-radius: 50px;
+  width: 743px;
+  height: 77.99px;
+  position: absolute;
+  left: 300px;
+  top: 366.01px;
+}
+.nosso-email-pickyourartpya-gmail-com {
+  color: #000000;
+  text-align: center;
+  font-family: "" Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 323px);
+  top: 52.5%;
+  translate: 0 -50%;
+  width: 604px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-512 {
+  width: 743px;
+  height: 77.99px;
+  position: static;
+}
+.rectangle-372 {
+  background: #b1a188;
+  border-radius: 50px;
+  width: 743px;
+  height: 77.99px;
+  position: absolute;
+  left: 303px;
+  top: 453px;
+}
+.nosso-telefone-12-99712-4278 {
+  color: #000000;
+  text-align: center;
+  font-family: "" Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 323px);
+  top: calc(50% - -96px);
+  width: 643px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-522 {
+  width: 743px;
+  height: 77.99px;
+  position: static;
+}
+.rectangle-373 {
+  background: #b1a188;
+  border-radius: 50px;
+  width: 743px;
+  height: 77.99px;
+  position: absolute;
+  left: 300px;
+  top: 539px;
+}
+.nosso-endere-o-rua-expedito-exposicion-rio-exposito-n-333-s-o-paulo-brasil {
+  color: #000000;
+  text-align: center;
+  font-family: "" Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - -172px);
+  width: 660px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-9 {
+  width: 612.37px;
+  height: 113px;
+  position: static;
+}
+.group-53 {
+  width: 464.37px;
+  height: 113px;
+  position: static;
+}
+.suporte {
+  color: #000000;
+  text-align: center;
+  font-family: "LeagueSpartan-Regular", sans-serif;
+  font-size: 40px;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 216px;
+  width: 464.37px;
+  height: 41.83px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-text-stroke: 1px #000000;
+}
+.httpswww-inhotim-org-br {
+  width: 140px;
+  height: 48px;
+  position: absolute;
+  left: 53%;
+  translate: -50%;
+  top: 281px;
+  object-fit: cover;
+}
+.rectangle-23 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #000000;
+  border-width: 0px 0px 0px 5px;
+  width: 446.26px;
+  height: 113px;
+  position: absolute;
+  left: 303px;
+  top: 216px;
+}
+.httpswww-inhotim-org-br-2-1 {
+  width: 532px;
+  height: 49px;
+  position: absolute;
+  left: 415px;
+  top: 74px;
+  object-fit: cover;
+}

@@ -1,0 +1,404 @@
+.pagina-do-boleto,
+.pagina-do-boleto * {
+  box-sizing: border-box;
+}
+.pagina-do-boleto {
+  background: #ffffff;
+  height: 696px;
+  position: relative;
+  overflow: hidden;
+}
+.httpswww-inhotim-org-br-1-1 {
+  width: 1366px;
+  height: 768px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.finalize-sua-compra {
+  color: #696c41;
+  text-align: center;
+  font-family: "LeagueSpartan-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 136px;
+  width: 412px;
+  height: 63px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-43 {
+  position: absolute;
+  inset: 0;
+}
+.group-38 {
+  width: 549px;
+  height: 378px;
+  position: static;
+}
+.rectangle-35 {
+  border-radius: 0px;
+  width: 549px;
+  height: 378px;
+  position: absolute;
+  left: 641px;
+  top: 195px;
+  overflow: visible;
+}
+.group-40 {
+  width: 511.19px;
+  height: 36px;
+  position: static;
+}
+.rectangle-36 {
+  background: #696c41;
+  border-radius: 50px;
+  width: 511.19px;
+  height: 36px;
+  position: absolute;
+  left: 658.9px;
+  top: 218px;
+}
+.escolha-a-forma-de-pagamento {
+  color: #f5e7c3;
+  text-align: center;
+  font-family: "LeagueSpartan-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 658.9px;
+  top: 218px;
+  width: 511.19px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-49 {
+  width: 511.19px;
+  height: 65px;
+  position: static;
+}
+.rectangle-362 {
+  background: #696c41;
+  border-radius: 50px;
+  width: 511.19px;
+  height: 65px;
+  position: absolute;
+  left: 658.9px;
+  top: 274px;
+}
+.valor-r-3-000-000-00 {
+  color: #f5e7c3;
+  text-align: center;
+  font-family: "LeagueSpartan-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 658.9px;
+  top: 274px;
+  width: 511.19px;
+  height: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-48 {
+  width: 496.27px;
+  height: 80px;
+  position: static;
+}
+.group-41 {
+  width: 243.66px;
+  height: 71px;
+  position: static;
+}
+.rectangle-363 {
+  background: #696c41;
+  border-radius: 50px;
+  width: 243.66px;
+  height: 71px;
+  position: absolute;
+  left: 915.49px;
+  top: 462px;
+}
+.pagar-com-pix {
+  color: #f5e7c3;
+  text-align: right;
+  font-family: "LeagueSpartan-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 915.49px;
+  top: 490.6px;
+  width: 240.31px;
+  height: 18.74px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.pix-1 {
+  width: 36.55px;
+  height: 48.25px;
+  position: absolute;
+  left: 934.78px;
+  top: 468.99px;
+  object-fit: cover;
+}
+.group-42 {
+  width: 225.76px;
+  height: 80px;
+  position: static;
+}
+.rectangle-364 {
+  background: #696c41;
+  border-radius: 50px;
+  width: 225.76px;
+  height: 80px;
+  position: absolute;
+  left: 662.88px;
+  top: 458px;
+}
+.gerar-boleto {
+  color: #f5e7c3;
+  text-align: right;
+  font-family: "LeagueSpartan-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 664.95px;
+  top: 480.22px;
+  width: 220.52px;
+  height: 41.03px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.conta-1 {
+  width: 41.86px;
+  height: 53.33px;
+  position: absolute;
+  left: 676.52px;
+  top: 472.6px;
+  object-fit: cover;
+}
+.group-46 {
+  position: absolute;
+  inset: 0;
+}
+.group-45 {
+  width: 304px;
+  height: 378px;
+  position: static;
+}
+.group-382 {
+  width: 304px;
+  height: 378px;
+  position: absolute;
+  left: 259px;
+  top: 195px;
+  overflow: visible;
+}
+.group-422 {
+  width: 274.3px;
+  height: 346.25px;
+  position: static;
+}
+.claude-monet-lilacs-in-the-sun {
+  color: #f5e7c3;
+  text-align: center;
+  font-family: "LeagueSpartan-Bold", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  position: absolute;
+  left: 272px;
+  top: 539.27px;
+  width: 271.3px;
+  height: 10.91px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-39 {
+  width: 271.3px;
+  height: 38.69px;
+  position: static;
+}
+.rectangle-365 {
+  background: #696c41;
+  border-radius: 50px;
+  width: 271.3px;
+  height: 38.69px;
+  position: absolute;
+  left: 275px;
+  top: 203.93px;
+}
+.obra {
+  color: #f5e7c3;
+  text-align: center;
+  font-family: "LeagueSpartan-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 358.57px;
+  top: 213.85px;
+  width: 98.1px;
+  height: 19.84px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.vincentevangogh-cafe-terrace-place-du-forum-arles-1 {
+  width: 271px;
+  height: 278.79px;
+  position: absolute;
+  left: 275px;
+  top: 253.54px;
+  object-fit: cover;
+}
+.group-47 {
+  position: absolute;
+  inset: 0;
+}
+.httpswww-inhotim-org-br-1 {
+  width: 153px;
+  height: 50px;
+  position: absolute;
+  left: 124px;
+  top: 15px;
+  object-fit: cover;
+}
+.group-6 {
+  width: 609px;
+  height: 40px;
+  position: static;
+}
+.group-1 {
+  width: 121px;
+  height: 39px;
+  position: static;
+}
+.rectangle-31 {
+  background: rgba(187, 195, 96, 0.8);
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #2d382d;
+  border-width: 1px;
+  width: 121px;
+  height: 39px;
+  position: absolute;
+  left: 634px;
+  top: 21px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.suporte {
+  color: #2d382d;
+  text-align: center;
+  font-family: "OpenSans-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 652px;
+  top: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-2 {
+  width: 121px;
+  height: 39px;
+  position: static;
+}
+.rectangle-312 {
+  background: rgba(187, 195, 96, 0.8);
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #2d382d;
+  border-width: 1px;
+  width: 121px;
+  height: 39px;
+  position: absolute;
+  left: 782px;
+  top: 21px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.login {
+  color: #2d382d;
+  text-align: center;
+  font-family: "OpenSans-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 813px;
+  top: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-5 {
+  width: 165px;
+  height: 40px;
+  position: static;
+}
+.rectangle-313 {
+  background: rgba(187, 195, 96, 0.8);
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #2d382d;
+  border-width: 1px;
+  width: 165px;
+  height: 40px;
+  position: absolute;
+  left: 930px;
+  top: 20px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.cadastrar-se {
+  color: #2d382d;
+  text-align: center;
+  font-family: "OpenSans-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 943px;
+  top: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-4 {
+  width: 121px;
+  height: 39px;
+  position: static;
+}
+.rectangle-314 {
+  background: rgba(187, 195, 96, 0.8);
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #2d382d;
+  border-width: 1px;
+  width: 121px;
+  height: 39px;
+  position: absolute;
+  left: 1122px;
+  top: 21px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.sobre-n-s {
+  color: #2d382d;
+  text-align: center;
+  font-family: "OpenSans-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 1129px;
+  top: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

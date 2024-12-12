@@ -1,0 +1,89 @@
+.pagina-de-sobre-nos,
+.pagina-de-sobre-nos * {
+  box-sizing: border-box;
+}
+.pagina-de-sobre-nos {
+  background: #ffffff;
+  height: 768px;
+  position: relative;
+  overflow: hidden;
+}
+.httpswww-inhotim-org-br-1-1 {
+  width: 1366px;
+  height: 768px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.group-13 {
+  position: absolute;
+  inset: 0;
+}
+.group-52 {
+  width: 885px;
+  height: 465px;
+  position: static;
+}
+.rectangle-7 {
+  background: #552322;
+  border-radius: 50px;
+  width: 885px;
+  height: 465px;
+  position: absolute;
+  left: 241px;
+  top: 645px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+}
+.group-51 {
+  width: 772px;
+  height: 405.54px;
+  position: static;
+}
+.httpswww-inhotim-org-br {
+  width: 339.17px;
+  height: 94.28px;
+  position: absolute;
+  left: 43%;
+  translate: -50%;
+  top: 202px;
+  object-fit: cover;
+}
+.group-50 {
+  width: 772px;
+  height: 241.54px;
+  position: static;
+}
+.rectangle-37 {
+  background: #b1a188;
+  border-radius: 50px;
+  width: 772px;
+  height: 241.52px;
+  position: absolute;
+  left: 301px;
+  top: 366.03px;
+}
+.fundada-desde-dezembro-de-2024-o-projeto-pick-your-art-tem-como-objetivo-promover-a-venda-de-obras-de-diversos-artistas-considerados-importantes-em-diversos-momentos-da-arte-inclusive-atualmente-al-m-de-incentivar-o-trabalho-de-diversos-artistas-presentes-em-nosso-ateli-disponibilizado-a-op-o-da-encomenda-de-trabalhos-de-diversos-tipos-inspirados-em-artes-presentes-em-nosso-acervo {
+  color: #000000;
+  text-align: center;
+  font-family: "OpenSans-Bold", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: absolute;
+  left: 301px;
+  top: 366px;
+  width: 772px;
+  height: 241.52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.httpswww-inhotim-org-br-2-1 {
+  width: 532px;
+  height: 49px;
+  position: absolute;
+  left: 415px;
+  top: 74px;
+  object-fit: cover;
+}

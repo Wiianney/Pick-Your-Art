@@ -1,0 +1,304 @@
+.pagina-de-realismo,
+.pagina-de-realismo * {
+  box-sizing: border-box;
+}
+.pagina-de-realismo {
+  background: #ffffff;
+  height: 696px;
+  position: relative;
+  overflow: hidden;
+}
+.httpswww-inhotim-org-br-1-1 {
+  width: 1366px;
+  height: 768px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.realismo {
+  color: #696c41;
+  text-align: center;
+  font-family: "LeagueSpartan-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 136px;
+  width: 280px;
+  height: 63px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-46 {
+  position: absolute;
+  inset: 0;
+}
+.group-43 {
+  width: 251px;
+  height: 381px;
+  position: static;
+}
+.group-38 {
+  width: 251px;
+  height: 381px;
+  position: absolute;
+  left: 219px;
+  top: 205px;
+  overflow: visible;
+}
+.group-42 {
+  width: 224px;
+  height: 349px;
+  position: static;
+}
+.group-41 {
+  width: 224px;
+  height: 105px;
+  position: static;
+}
+.group-39 {
+  width: 224px;
+  height: 39px;
+  position: static;
+}
+.rectangle-36 {
+  background: #696c41;
+  border-radius: 50px;
+  width: 224px;
+  height: 39px;
+  position: absolute;
+  left: 233px;
+  top: 483px;
+}
+.comprar {
+  color: #f5e7c3;
+  text-align: center;
+  font-family: "LeagueSpartan-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 233px;
+  top: 493px;
+  width: 224px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-40 {
+  width: 224px;
+  height: 39px;
+  position: static;
+}
+.rectangle-362 {
+  background: #696c41;
+  border-radius: 50px;
+  width: 224px;
+  height: 39px;
+  position: absolute;
+  left: 233px;
+  top: 531px;
+}
+.inspirar-se {
+  color: #f5e7c3;
+  text-align: center;
+  font-family: "LeagueSpartan-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 295.68px;
+  top: 541px;
+  width: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.claude-monet-lilacs-in-the-sun {
+  color: #f5e7c3;
+  text-align: center;
+  font-family: "LeagueSpartan-Bold", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  position: absolute;
+  left: 233px;
+  top: 465px;
+  width: 224px;
+  height: 11px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.vincentevangogh-cafe-terrace-place-du-forum-arles-1 {
+  width: 224px;
+  height: 230px;
+  position: absolute;
+  left: 233px;
+  top: 221px;
+  object-fit: cover;
+}
+.group-44 {
+  width: 251px;
+  height: 381px;
+  position: static;
+}
+.group-382 {
+  width: 251px;
+  height: 381px;
+  position: absolute;
+  left: 557px;
+  top: 205px;
+  overflow: visible;
+}
+.rectangle-363 {
+  background: #696c41;
+  border-radius: 50px;
+  width: 224px;
+  height: 39px;
+  position: absolute;
+  left: 571px;
+  top: 483px;
+}
+.comprar2 {
+  color: #f5e7c3;
+  text-align: center;
+  font-family: "LeagueSpartan-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 571px;
+  top: 493px;
+  width: 224px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-364 {
+  background: #696c41;
+  border-radius: 50px;
+  width: 224px;
+  height: 39px;
+  position: absolute;
+  left: 571px;
+  top: 531px;
+}
+.inspirar-se2 {
+  color: #f5e7c3;
+  text-align: center;
+  font-family: "LeagueSpartan-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 633.68px;
+  top: 541px;
+  width: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.claude-monet-lilacs-in-the-sun2 {
+  color: #f5e7c3;
+  text-align: center;
+  font-family: "LeagueSpartan-Bold", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  position: absolute;
+  left: 571px;
+  top: 465px;
+  width: 224px;
+  height: 11px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.vincentevangogh-cafe-terrace-place-du-forum-arles-12 {
+  width: 224px;
+  height: 230px;
+  position: absolute;
+  left: 571px;
+  top: 221px;
+  object-fit: cover;
+}
+.group-45 {
+  width: 251px;
+  height: 381px;
+  position: static;
+}
+.group-383 {
+  width: 251px;
+  height: 381px;
+  position: absolute;
+  left: 895px;
+  top: 205px;
+  overflow: visible;
+}
+.rectangle-365 {
+  background: #696c41;
+  border-radius: 50px;
+  width: 224px;
+  height: 39px;
+  position: absolute;
+  left: 909px;
+  top: 483px;
+}
+.comprar3 {
+  color: #f5e7c3;
+  text-align: center;
+  font-family: "LeagueSpartan-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 909px;
+  top: 493px;
+  width: 224px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-366 {
+  background: #696c41;
+  border-radius: 50px;
+  width: 224px;
+  height: 39px;
+  position: absolute;
+  left: 909px;
+  top: 531px;
+}
+.inspirar-se3 {
+  color: #f5e7c3;
+  text-align: center;
+  font-family: "LeagueSpartan-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 971.68px;
+  top: 541px;
+  width: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.claude-monet-lilacs-in-the-sun3 {
+  color: #f5e7c3;
+  text-align: center;
+  font-family: "LeagueSpartan-Bold", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  position: absolute;
+  left: 909px;
+  top: 465px;
+  width: 224px;
+  height: 11px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.vincentevangogh-cafe-terrace-place-du-forum-arles-13 {
+  width: 224px;
+  height: 230px;
+  position: absolute;
+  left: 909px;
+  top: 221px;
+  object-fit: cover;
+}

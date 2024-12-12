@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerar Chave PIX</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .chave-container {
+            margin-bottom: 20px;
+        }
+        .btn {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+            margin: 5px;
+        }
+        .btn:hover {
+            background-color: #45a049;
+        }
+        .chave {
+            margin-top: 10px;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .msg-confirmacao {
+            margin-top: 15px;
+            color: green;
+            font-size: 16px;
+            font-weight: bold;
+        }
+        .msg-erro {
+            margin-top: 15px;
+            color: red;
+            font-size: 16px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Gerar e Copiar Chave PIX</h1>
+
+    <div class="chave-container">
+        <!-- Botão para gerar chave PIX -->
+        <button class="btn" onclick="gerarChavePix()">Gerar Chave PIX</button>
+    </div>
+
+    <div class="chave">
+        <!-- Aqui a chave PIX gerada será exibida -->
+        <p id="chavePixDisplay" style="display: none;">Chave PIX: <span id="chavePix">---</span></p>
+    </div>
+
+    <div class="chave-container">
+        <!-- Botão para copiar chave PIX -->
+        <button class="btn" onclick="copiarChavePix()" id="copiarBtn" style="display: none;">Copiar Chave PIX</button>
+    </div>
+
+    <!-- Área para exibir a mensagem de confirmação -->
+    <div id="mensagemResultado" class="msg-confirmacao" style="display: none;"></div>
+
+    <script>
+        // Função para gerar uma chave PIX fictícia
+        function gerarChavePix() {
+            // Gerando uma chave PIX fictícia (isso pode ser alterado para um formato real, como e-mail, CPF, etc.)
+            const chavePix = "1234-5678-9012-3456"; // Exemplo de chave gerada
+            document.getElementById("chavePix").textContent = chavePix;
+            document.getElementById("chavePixDisplay").style.display = "block";
+            document.getElementById("copiarBtn").style.display = "inline-block";
+            document.getElementById("mensagemResultado").style.display = "none"; // Esconde a mensagem ao gerar uma nova chave
+        }
+
+        // Função para copiar a chave PIX para a área de transferência
+        function copiarChavePix() {
+            const chavePix = document.getElementById("chavePix").textContent;
+            navigator.clipboard.writeText(chavePix).then(() => {
+                // Exibe a mensagem de sucesso na página
+                document.getElementById("mensagemResultado").textContent = 'Chave PIX copiada para a área de transferência: ' + chavePix;
+                document.getElementById("mensagemResultado").style.color = 'green'; // Mensagem de sucesso
+                document.getElementById("mensagemResultado").style.display = 'block';
+            }).catch(err => {
+                // Exibe a mensagem de erro na página
+                document.getElementById("mensagemResultado").textContent = 'Erro ao copiar a chave PIX: ' + err;
+                document.getElementById("mensagemResultado").style.color = 'red'; // Mensagem de erro
+                document.getElementById("mensagemResultado").style.display = 'block';
+            });
+        }
+    </script>
+
+</body>
+</html>
