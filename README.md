@@ -26,14 +26,30 @@
 
 <h1> ENTIDADE DE RELACIONAMENTO </h1>
 
-<img scr="![image](https://github.com/user-attachments/assets/7790ed4a-7a1c-440c-b6c9-c8b3bce413a1)">
+<p>Figura 1: inicial</p>
 
-<img scr="![image](https://github.com/user-attachments/assets/f1c7ef88-1075-4d32-922f-095a55c7921c)">
+![image](https://github.com/user-attachments/assets/7790ed4a-7a1c-440c-b6c9-c8b3bce413a1)
+
+
+<p>Figrua 2: final</p>
+
+![image](https://github.com/user-attachments/assets/f1c7ef88-1075-4d32-922f-095a55c7921c)
 
 
 <h1> DIAGRAMA DE CASO DE USO </h1>
 
-<img scr="![image](https://github.com/user-attachments/assets/08d9c7d6-425b-49af-86f8-234058807fd4)">
+![image](https://github.com/user-attachments/assets/4ed179d6-9206-44a5-8bb2-08a52c11507f)
+
 
 
 <h1> REQUISITOS FUNCIONAIS E NÃO FUNCIONAIS </h1>
+
+![image](https://github.com/user-attachments/assets/1ebb909f-1519-4b97-839c-426098d5438f)
+
+<h1> DICIONARIO DE DADOS </h1>
+
+![image](https://github.com/user-attachments/assets/b0288c7a-94e6-4c1a-b6cf-2aba5f71a2d4)
+
+
+![image](https://github.com/user-attachments/assets/d8e4ae49-e6cf-4f15-8fac-46d191bf67c2)
+
