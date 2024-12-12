@@ -53,3 +53,8 @@
 
 ![image](https://github.com/user-attachments/assets/d8e4ae49-e6cf-4f15-8fac-46d191bf67c2)
 
+
+<h1> MATRIZ DE REQUISITOS </h1>
+
+![image](https://github.com/user-attachments/assets/1aaffef6-a458-477a-9398-05d7f8f8300d)
+
