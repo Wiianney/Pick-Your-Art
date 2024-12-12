@@ -38,7 +38,172 @@
     </style>
 </head>
 <body>
-
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="stylesheet" href="./vars.css">
+      <link rel="stylesheet" href="../css/compra.css">
+      
+      
+      <style>
+        #pix{
+            display: none;
+        }
+        #boleto{
+            display: none;
+        }
+       a,
+       button,
+       input,
+       select,
+       h1,
+       h2,
+       h3,
+       h4,
+       h5,
+       * {
+           box-sizing: border-box;
+           margin: 0;
+           padding: 0;
+           border: none;
+           text-decoration: none;
+           background: none;
+       
+           -webkit-font-smoothing: antialiased;
+       }
+       #pixi{
+        
+       }
+       menu, ol, ul {
+           list-style-type: none;
+           margin: 0;
+           padding: 0;
+       }
+       </style>
+      <title>Document</title>
+    </head>
+    <body>
+      <div class="pagina-do-boleto">
+        <img
+          class="httpswww-inhotim-org-br-1-1"
+          src="../img/httpswww-inhotim-org-br-1-10.png"
+        />
+        <div class="group-38">
+          <img class="rectangle-35" src="../img/rectangle-350.png" />
+          <div class="group-60">
+            <div class="group-59">
+              <div class="group-40">
+                <div class="rectangle-36"></div>
+                <div class="escolha-a-forma-de-pagamento">
+                  Escolha a forma de pagamento
+                </div>
+              </div>
+              <div class="group-49">
+                <div class="rectangle-362"></div>
+                <div class="valor-r-3-000-000-00">Valor R$3.000.000,00</div>
+              </div>
+              <div class="group-61">
+                <div class="group-48">
+                  <div class="group-41">
+                    <div class="rectangle-363"></div>
+                    <button id="gerar-pix" class="pagar-com-pix">PAGAR COM PIX</button>
+                    <img class="pix-1" src="../img/pix-10.png" />
+                  </div>
+                  <class="group-42">
+                    <div class="rectangle-364"></div>
+                    <button id="gerar-boleto" class="gerar-boleto">GERAR BOLETO</button>
+                    <img class="conta-1" src="../img/conta-10.png" />
+                  </div>
+                </div>
+                <div id="boleto" class="group-58">
+                  <div class="group-54">
+                    <div class="rectangle-38"></div>
+                  </div>
+                  <div class="group-57">
+                    <div class="group-412">
+                      <div class="rectangle-365"></div>
+                      <div class="seu-c-digo-pix">Seu Boleto:</div>
+                    </div>
+                    <div class="group-55">
+                      <div class="rectangle-366"></div>
+                      <div class="codigo-de-pix-gerado" id="Bole">
+                        00190500954014481606906809350314337370000000100
+                      </div>
+                    </div>
+                    <div class="group-56">
+                      <div class="rectangle-367"></div>
+                      <button class="copiar">Copiar</button>
+                    </div>
+                  </div>  
+                </div>  
+                <div id="pix" class="group-58">
+                  <div class="group-54">
+                    <div class="rectangle-38"></div>
+                  </div>
+                  <div class="group-57">
+                    <div class="group-412">
+                      <div class="rectangle-365"></div>
+                      <div class="seu-c-digo-pix">Seu Código Pix:</div>
+                    </div>
+                    <div class="group-55">
+                      <div class="rectangle-366"></div>
+                      <div class="codigo-de-pix-gerado" id="pixi">
+                        00020126460014BR.GOV.BCB.PIX0124pickyourartpya@gmail.com5204000053039865409450000.005802BR5901N6001C62150511PICKYOURART6304EEF7
+                      </div>
+                    </div>
+                    <div class="group-56">
+                      <div class="rectangle-367"></div>
+                      <button onclick="copiarTexto()" class="copiar">Copiar</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>    
+        <div class="group-45">
+          <img class="group-382" src="../img/group-381.png" />
+          <div class="group-422">
+            <!---<div class="claude-monet-lilacs-in-the-sun">
+              claude monet - “lilacs in the sun”
+            </div>--->
+            <div class="group-39">
+              <div class="obra">Obra</div>
+            </div>
+            <!---<img
+              class="vincentevangogh-cafe-terrace-place-du-forum-arles-1"
+              src="../img/telaaoleoautoretratovangogh.jpg"
+            />--->
+          </div>
+        </div>
+        <a href="home.html">
+            <bimg class="httpswww-inhotim-org-br-1" src="../img/httpswww-inhotim-org-r-10.png" />
+        </a>
+        <div class="group-6">
+          <a href="suporte.html" class="group-1">
+            <div class="rectangle-31"></div>
+            <div class="suporte">Suporte</div>
+          </a>
+          <a href="login.html" class="group-2">
+            <div class="rectangle-312"></div>
+            <div class="login">Login</div>
+          </a>
+          <a href="cadastro.html" class="group-5">
+            <div class="rectangle-313"></div>
+            <div class="cadastrar-se">Cadastrar-se</div>
+          </div>
+          <a href="sobrenos.html" class="group-4">
+            <div class="rectangle-314"></div>
+            <div class="sobre-n-s">Sobre nós</div>
+          </a>
+        </div>
+      </div>
+      <script src="carrinho.html"></script>
+    </body>
+    </html>
     <h1>Carrinho de Compras</h1>
 
     <div class="carrinho">
@@ -50,9 +215,57 @@
         <button class="btn-copiar" onclick="copiarParaAreaDeTransferencia()">Copiar Total para Área de Transferência</button>
     </div>
 
-    <script src="carrinho.js">
-        
-    </script>
+    <script>
+        // Seleciona o botão e o campo
+        const pix = document.getElementById("gerar-pix");
+        const boleto = document.getElementById("gerar-boleto");
+        const cdgpix = document.getElementById("pix");
+        const cdgboleto = document.getElementById("boleto");
+
+        // Adiciona o evento de clique ao botão
+        pix.addEventListener("click", () => {
+            if (cdgpix.style.display === "none" || cdgpix.style.display === "") {
+                // Revela o cdgpix
+                cdgpix.style.display = "block";
+                pix.textContent = "Ocultar Campo";
+            } else {
+                // Oculta o campo
+                cdgpix.style.display = "none";
+                pix.textContent = "Mostrar Campo";
+            }
+        });
+        boleto.addEventListener("click", () => {
+            if (cdgboleto.style.display === "none" || cdgboleto.style.display === "") {
+                // Revela o cdgboleto
+                cdgboleto.style.display = "block";
+                boleto.textContent = "Ocultar cdgboleto";
+            } else {
+                // Oculta o cdgboleto
+                cdgboleto.style.display = "none";
+                boleto.textContent = "Mostrar cdgboleto";
+            }
+        });
+        </script>    
+    <script src="">
+    
+    function copiarTexto() {
+        // Seleciona o texto da div
+        const pixi = document.getElementById("pixi").textContent;
+
+        // Usa a API Clipboard para copiar o texto
+        navigator.clipboard.writeText(pixi)
+            .then(() => {
+                // Exibe uma mensagem de sucesso
+                alert("Texto copiado: " + pixi);
+            })
+            .catch(err => {
+                // Exibe uma mensagem de erro, se falhar
+                console.error("Erro ao copiar texto: ", err);
+                alert("Falha ao copiar o texto.");
+            });
+    }</script>
+    <script src="carrinho.js"></script>
+
 
 </body>
 </html>

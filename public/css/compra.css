@@ -47,8 +47,18 @@
   height: 378px;
   position: absolute;
   left: 641px;
-  top: 195px;
+  top: 189px;
   overflow: visible;
+}
+.group-60 {
+  width: 511.19px;
+  height: 336.57px;
+  position: static;
+}
+.group-59 {
+  width: 511.19px;
+  height: 336.57px;
+  position: static;
 }
 .group-40 {
   width: 511.19px;
@@ -61,8 +71,8 @@
   width: 511.19px;
   height: 36px;
   position: absolute;
-  left: 658.9px;
-  top: 218px;
+  left: 659px;
+  top: 212px;
 }
 .escolha-a-forma-de-pagamento {
   color: #f5e7c3;
@@ -71,8 +81,8 @@
   font-size: 22px;
   font-weight: 700;
   position: absolute;
-  left: 658.9px;
-  top: 218px;
+  left: 659px;
+  top: 212px;
   width: 511.19px;
   height: 36px;
   display: flex;
@@ -90,8 +100,8 @@
   width: 511.19px;
   height: 65px;
   position: absolute;
-  left: 658.9px;
-  top: 274px;
+  left: 659px;
+  top: 258px;
 }
 .valor-r-3-000-000-00 {
   color: #f5e7c3;
@@ -100,13 +110,18 @@
   font-size: 22px;
   font-weight: 700;
   position: absolute;
-  left: 658.9px;
-  top: 274px;
+  left: 659px;
+  top: 258px;
   width: 511.19px;
   height: 65px;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+.group-61 {
+  width: 509px;
+  height: 215.57px;
+  position: static;
 }
 .group-48 {
   width: 496.27px;
@@ -124,30 +139,30 @@
   width: 243.66px;
   height: 71px;
   position: absolute;
-  left: 915.49px;
-  top: 462px;
+  left: 918.61px;
+  top: 337px;
 }
 .pagar-com-pix {
   color: #f5e7c3;
-  text-align: right;
+  text-align: center;
   font-family: "LeagueSpartan-Bold", sans-serif;
-  font-size: 22px;
+  font-size: 18px;
   font-weight: 700;
   position: absolute;
-  left: 915.49px;
-  top: 490.6px;
+  left: 918.61px;
+  top: 365.6px;
   width: 240.31px;
   height: 18.74px;
   display: flex;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: center;
 }
 .pix-1 {
   width: 36.55px;
   height: 48.25px;
   position: absolute;
-  left: 934.78px;
-  top: 468.99px;
+  left: 937.9px;
+  top: 343.99px;
   object-fit: cover;
 }
 .group-42 {
@@ -161,31 +176,144 @@
   width: 225.76px;
   height: 80px;
   position: absolute;
-  left: 662.88px;
-  top: 458px;
+  left: 666px;
+  top: 333px;
 }
 .gerar-boleto {
   color: #f5e7c3;
-  text-align: right;
+  text-align: center;
   font-family: "LeagueSpartan-Bold", sans-serif;
-  font-size: 22px;
+  font-size: 18px;
   font-weight: 700;
   position: absolute;
-  left: 664.95px;
-  top: 480.22px;
+  left: 668.07px;
+  top: 355.22px;
   width: 220.52px;
   height: 41.03px;
   display: flex;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: center;
 }
 .conta-1 {
   width: 41.86px;
   height: 53.33px;
   position: absolute;
-  left: 676.52px;
-  top: 472.6px;
+  left: 679.64px;
+  top: 347.6px;
   object-fit: cover;
+}
+.group-58 {
+  width: 509px;
+  height: 125.57px;
+  position: static;
+}
+
+.group-54 {
+  width: 509px;
+  height: 125.57px;
+  position: static;
+}
+.rectangle-38 {
+  background: #696c41;
+  border-radius: 50px;
+  width: 509px;
+  height: 125.57px;
+  position: absolute;
+  left: 666px;
+  top: 423px;
+}
+
+.group-57 {
+  width: 457px;
+  height: 98.9px;
+  position: static;
+}
+.group-412 {
+  width: 366.91px;
+  height: 17.58px;
+  position: static;
+}
+.rectangle-365 {
+  background: #898d53;
+  border-radius: 50px;
+  width: 366.91px;
+  height: 17.58px;
+  position: absolute;
+  left: 728.53px;
+  top: 436.06px;
+}
+.seu-c-digo-pix {
+  color: #f5e7c3;
+  text-align: center;
+  font-family: "LeagueSpartan-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 779.31px;
+  top: 436.06px;
+  width: 275.18px;
+  height: 17.58px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-55 {
+  width: 457px;
+  height: 37.4px;
+  position: static;
+}
+.rectangle-366 {
+  background: #898d53;
+  border-radius: 50px;
+  width: 457px;
+  height: 37.4px;
+  position: absolute;
+  left: 684px;
+  top: 466.82px;
+}
+.codigo-de-pix-gerado {
+  color: #f5e7c3;
+  text-align: center;
+  font-family: "LeagueSpartan-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 747.25px;
+  top: 466.82px;
+  width: 342.75px;
+  height: 37.4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-56 {
+  width: 366.91px;
+  height: 17.58px;
+  position: static;
+}
+.rectangle-367 {
+  background: #898d53;
+  border-radius: 50px;
+  width: 366.91px;
+  height: 17.58px;
+  position: absolute;
+  left: 728.53px;
+  top: 517.39px;
+}
+.copiar {
+  color: #f5e7c3;
+  text-align: center;
+  font-family: "LeagueSpartan-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 779.31px;
+  top: 517.39px;
+  width: 275.18px;
+  height: 17.58px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .group-46 {
   position: absolute;
@@ -229,7 +357,7 @@
   height: 38.69px;
   position: static;
 }
-.rectangle-365 {
+.rectangle-368 {
   background: #696c41;
   border-radius: 50px;
   width: 271.3px;

@@ -14,9 +14,14 @@ function atualizarCarrinho() {
     // Adiciona cada item do carrinho à lista
     carrinho.forEach(item => {
         const li = document.createElement('li');
-        li.innerHTML = `
-            <img src="${item.imagem}" alt="${item.nome}" style="max-width: 50px; margin-right: 10px;">
-            ${item.nome} - R$ ${item.preco.toFixed(2)}
+        li.innerHTML = `<div class="group-49">
+            <div class="rectangle-362"></div>
+            <div class="valor-r-3-000-000-00">Valor R$${item.preco.toFixed(2)}</div>
+          </div><div class="claude-monet-lilacs-in-the-sun">
+          ${item.nome}
+        </div>
+            <img class="vincentevangogh-cafe-terrace-place-du-forum-arles-1" src="${item.imagem}" alt="${item.nome}" >
+             -
         `;
         listaItens.appendChild(li);
         total += item.preco;
