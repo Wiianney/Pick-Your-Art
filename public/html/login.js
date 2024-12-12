@@ -1,53 +1,20 @@
-/*/const loginForm = document.getElementById('loginForm');
+ // Captura o evento de envio do formulário de login
+ document.getElementById("loginform").addEventListener("submit", function(event) {
+    event.preventDefault(); // Evita que o formulário seja enviado
 
-// Adiciona um evento de submit para capturar os dados
-loginForm.addEventListener('submit', function (event) {
-    // Impede o envio do formulário (para fins de demonstração)
-    event.preventDefault();
+    // Pega os dados inseridos no formulário
+    const emailLogin = document.getElementById("emailLogin").value;
+    const senhaLogin = document.getElementById("senhaLogin").value;
 
-    // Captura os valores dos campos de entrada
-    const username = document.getElementById('username').value;
-    const password = document.getElementById('password').value;
+    // Recupera os dados do usuário armazenados no localStorage
+    const usuarioSalvo = JSON.parse(localStorage.getItem("usuario"));
 
-    // Exibe os dados no console (você pode usar esses dados como preferir)
-    console.log('Nome de usuário:', username);
-    console.log('Senha:', password);
-
-    // Aqui, você pode enviar os dados para um servidor ou realizar outra ação
-    // Exemplo: enviar os dados via fetch para um servidor
-    /*
-    fetch('/login', {
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({ username, password })
-    })
-    .then(response => response.json())
-    .then(data => console.log('Login bem-sucedido:', data))
-    .catch(error => console.error('Erro ao realizar login:', error));
-    */
-const loginForm = document.getElementById('loginform');
-const errorMessage = document.getElementById('errorMessage');
-
-// Adiciona um evento de submit para capturar os dados
-loginForm.addEventListener('submit', function (event) {
-    // Impede o envio do formulário (para fins de demonstração)
-    event.preventDefault();
-
-    // Captura os valores dos campos de entrada
-    const username = document.getElementById('email').value;
-    const password = document.getElementById('senha').value;
-
-    // Validação simples: o nome de usuário deve ser "usuario" e a senha "senha123"
-    if (username === "davi@gmail.com" && password === "senha123") {
-        // Redireciona para a página home.html
+    // Verifica se os dados do usuário existem e se o e-mail e senha batem
+    if (usuarioSalvo && usuarioSalvo.email === emailLogin && usuarioSalvo.senha === senhaLogin) {
+        alert("Login bem-sucedido!");
+        // Redireciona para uma página protegida (por exemplo, página principal)
         window.location.href = "home.html";
     } else {
-        // Exibe a mensagem de erro
-        errorMessage.style.display = "Seu login é inválido ";
+        alert("E-mail ou senha incorretos.");
     }
-
-    const loginForm = document.getElementById('cadastrocliente');
-    const errorMessage = document.getElementById('errorMessage');
-});     
+});

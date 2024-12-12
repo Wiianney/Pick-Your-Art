@@ -32,5 +32,5 @@ document.getElementById("cadastroform").addEventListener("submit", function(even
     // Alerta de sucesso
     alert("Cadastro realizado com sucesso!");
     // Redireciona para a página de login
-    window.location.href = "login.html";
+    window.location.href = "http://localhost:3000/html/Login.html";
 });
