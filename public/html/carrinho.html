@@ -49,12 +49,6 @@
       
       
       <style>
-        #pix{
-            display: none;
-        }
-        #boleto{
-            display: none;
-        }
        a,
        button,
        input,
@@ -74,9 +68,7 @@
        
            -webkit-font-smoothing: antialiased;
        }
-       #pixi{
-        
-       }
+       
        menu, ol, ul {
            list-style-type: none;
            margin: 0;
@@ -112,13 +104,12 @@
                     <button id="gerar-pix" class="pagar-com-pix">PAGAR COM PIX</button>
                     <img class="pix-1" src="../img/pix-10.png" />
                   </div>
-                  <class="group-42">
-                    <div class="rectangle-364"></div>
-                    <button id="gerar-boleto" class="gerar-boleto">GERAR BOLETO</button>
+                  <div class="group-42">
+                    <button id="gerar-boleto" onclick="mostrarBoleto()" class="rectangle-364 gerar-boleto">GERAR BOLETO</button>
                     <img class="conta-1" src="../img/conta-10.png" />
                   </div>
                 </div>
-                <div id="boleto" class="group-58">
+                <div id="boleto" class="group-58" style="display:none;">
                   <div class="group-54">
                     <div class="rectangle-38"></div>
                   </div>
@@ -139,7 +130,7 @@
                     </div>
                   </div>  
                 </div>  
-                <div id="pix" class="group-58">
+                <div id="pix" class="group-58" style="display:none;">
                   <div class="group-54">
                     <div class="rectangle-38"></div>
                   </div>
@@ -156,7 +147,7 @@
                     </div>
                     <div class="group-56">
                       <div class="rectangle-367"></div>
-                      <button onclick="copiarTexto()" class="copiar">Copiar</button>
+                      <button onclick="copiarTexto()" id="copiar" class="copiar">Copiar</button>
                     </div>
                   </div>
                 </div>
@@ -217,36 +208,32 @@
 
     <script>
         // Seleciona o botão e o campo
-        const pix = document.getElementById("gerar-pix");
-        const boleto = document.getElementById("gerar-boleto");
-        const cdgpix = document.getElementById("pix");
-        const cdgboleto = document.getElementById("boleto");
+        document.getElementById('copiar').addEventListener('click', function() {
+  // Obtém o conteúdo da div com a classe "codigo-de-pix-gerado"
+  const codigoPix = document.getElementById('pixi').textContent;
 
-        // Adiciona o evento de clique ao botão
-        pix.addEventListener("click", () => {
-            if (cdgpix.style.display === "none" || cdgpix.style.display === "") {
-                // Revela o cdgpix
-                cdgpix.style.display = "block";
-                pix.textContent = "Ocultar Campo";
-            } else {
-                // Oculta o campo
-                cdgpix.style.display = "none";
-                pix.textContent = "Mostrar Campo";
-            }
-        });
-        boleto.addEventListener("click", () => {
-            if (cdgboleto.style.display === "none" || cdgboleto.style.display === "") {
-                // Revela o cdgboleto
-                cdgboleto.style.display = "block";
-                boleto.textContent = "Ocultar cdgboleto";
-            } else {
-                // Oculta o cdgboleto
-                cdgboleto.style.display = "none";
-                boleto.textContent = "Mostrar cdgboleto";
-            }
-        });
+  // Usa a API Clipboard para copiar o texto
+  navigator.clipboard.writeText(codigoPix).then(function() {
+    // Alerta ou mostra uma mensagem informando que o texto foi copiado com sucesso
+    alert('Código de PIX copiado para a área de transferência!');
+  }).catch(function(err) {
+    // Em caso de erro, exibe uma mensagem
+    console.error('Erro ao copiar o texto: ', err);
+  });
+});
         </script>    
     <script src="">
+      // Obtém o botão e a div do boleto
+      function mostrarBoleto() {
+  const boletoDiv = document.getElementById('boleto');
+  // Alterna entre visível e invisível
+  if (boletoDiv.style.display === 'none' || boletoDiv.style.display === '') {
+    boletoDiv.style.display = 'block';  // Torna visível
+  } else {
+    boletoDiv.style.display = 'none';   // Torna invisível
+  }
+}
+
     
     function copiarTexto() {
         // Seleciona o texto da div

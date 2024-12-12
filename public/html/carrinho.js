@@ -40,6 +40,7 @@ function finalizarCompra() {
         // Limpa o carrinho
         localStorage.removeItem('carrinho');
         atualizarCarrinho();
+        window.location.href ="home.html"
     }
 }
 
