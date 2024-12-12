@@ -20,5 +20,5 @@ function adicionarAoCarrinho(nome, preco, imagem) {
   alert(`${nome} foi adicionado ao carrinho.`);
 
   // Redireciona para a página do carrinho
-  window.location.href = 'testecopy.html';
+  window.location.href = 'carrinho.html';
 }
